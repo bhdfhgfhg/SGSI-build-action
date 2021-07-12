@@ -7,9 +7,9 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
-  ZIP_NAME: 'update.zip'
-  OS_TYPE: 'Generic'
+  ROM_URL: 'https://36-158-232-1.ksyungslb.com/bigota.d.miui.com/21.4.21/miui_LAURUS_21.4.21_25f88a5ec1_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fmiuiver.com%2F'
+  ZIP_NAME: 'miui_LAURUS_25f88a5ec1_10.0.zip'
+  OS_TYPE: 'MIUI'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '12'
